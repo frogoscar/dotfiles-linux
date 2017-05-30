@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/exe/.gconf'
+let g:netrw_dirhist_2='/home/exe/Desktop/android-studio'
+let g:netrw_dirhist_3='/home/exe/cryptosmart/cryptosmart/Client-v5/Android'
+let g:netrw_dirhist_4='/home/exe/qksms/gradle-home'
+let g:netrw_dirhist_5='/home/exe/frogoscar.github.io/.git/modules/themes/next'
+let g:netrw_dirhist_6='/home/exe/github/qksms/QKSMS/src/main'
+let g:netrw_dirhist_7='/home/exe/data/cryptosmart2/Client-v5/Voice/Engine/include/Voice'
+let g:netrw_dirhist_8='/home/exe/.zsh/configs'
